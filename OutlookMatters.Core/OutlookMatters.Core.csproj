@@ -117,9 +117,11 @@
     <Compile Include="Mattermost\v3\ClientImpl.cs" />
     <Compile Include="Mattermost\v3\IChatChannelFactory.cs" />
     <Compile Include="Mattermost\v3\IChatFactory.cs" />
-    <Compile Include="Mattermost\v3\Interface\InitialLoad.cs" />
     <Compile Include="Mattermost\v3\Interface\Channel.cs" />
     <Compile Include="Mattermost\v3\Interface\ChannelList.cs" />
+    <Compile Include="Mattermost\v3\Interface\DMProfileList.cs" />
+    <Compile Include="Mattermost\v3\Interface\DMProfile.cs" />
+    <Compile Include="Mattermost\v3\Interface\InitialLoad.cs" />
     <Compile Include="Mattermost\v3\Interface\ChannelType.cs" />
     <Compile Include="Mattermost\v3\Interface\Error.cs" />
     <Compile Include="Mattermost\v3\Interface\IRestService.cs" />
